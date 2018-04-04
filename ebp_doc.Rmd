@@ -1,0 +1,454 @@
+---
+title: "Eep_doc"
+author: "Martin Gleason, MS"
+date: "1/31/2018"
+output: html_document
+---
+  Implementing Evidence-Based Practice in Community Corrections:
+The Principles of Effective Intervention
+         Project Vision: To build learning organizations that reduce recidivism through systemic integration of evidence-based principles in collaboration with community and justice partners.
+            Introduction and Background
+indicates are necessary to accomplish risk and recidi- vism reduction. Despite the evidence that indicates otherwise, officers continue to be trained and expected to meet minimal contact standards which stress rates of contacts and largely ignore the opportu- nities these contacts have for effectively reinforcing behavioral change. Officers and offenders are not so much clearly directed what to do, as what not to do.
+An integrated and strategic model for evidence-based practice is necessary to adequately bridge the gap between current practice and evidence supported practice in community corrections. This model must incorporate both existing research findings and operational methods of implementation. The biggest challenge in adopting better interventions isn’t identifying the interventions with the best evidence, so much as it is changing our existing systems to appropriately support the new innovations. Identify- ing interventions with good research support and realigning the necessary organizational infrastructure are both fundamental to evidence-based practice.
+ Until recently, community correc- tions has suffered from a lack of research that identified proven methods of reducing offender recidivism. Recent research efforts based on meta-analysis (the syntheses of data from many research studies) (McGuire, 2002; Sherman et al, 1998), cost-benefit analysis (Aos, 1998) and specific clinical trials (Henggeler et al, 1997; Meyers et al, 2002) have broken through this barrier though and are now providing the field with indications of how to better reduce recidivism.
+This research indicates that certain programs and intervention
+ strategies, when applied to a variety of offender populations, reliably produce sustained reductions in recidivism. This same research literature suggests that few community supervision agencies (probation, parole, residential community corrections) in the U.S. are using these effective interventions and their related concepts/principles.
+The conventional approach to supervision in this country empha- sizes individual accountability from offenders and their supervis- ing officers without consistently providing either with the skills, tools, and resources that science
+  Specificity regarding the desired outcomes is essential to achieving system improvement. -Harris, 1986; O'Leary & Clear, 1997
+Evidence-Based Practice (EBP)
+    Evidence-based practice is a significant trend throughout all human services that emphasize outcomes. Interventions within community corrections are considered effective when they reduce offender risk and subsequent recidivism and therefore make a positive long-term contribution to public safety.
+This document presents a model or framework based on a set of principles for effective offender interventions within state, local, or private community corrections systems. Models provide us with tangible reference points as we face unfamiliar tasks and experiences. Some models are very abstract, for example entailing only a set of testable proposi- tions or principles. Other models,
+ conversely, may be quite concrete and detail oriented.
+The field of community corrections is beginning to recognize its need, not only for more effective interventions, but for models that integrate seemingly disparate best practices (Bogue 2002; Carey 2002; Corbett et al. 1999; Gornik 2001; Lipton et al. 2000; Taxman and Byrne 2001).
+As a part of their present strategy for facilitating greater transfer of effective interventions, the National Institute of Correction (NIC), Community Correc- tions Division has entered into a collaborative
+(Continued on pg 2)
+ Page 1
+  Scientific learning is impossible without evidence.
+ 
+  (Continued from pg 1)
+Evidence-Based Practice (EBP) (con’t.)
+    effort with the Crime and Justice Institute to develop conceptual and
+operational models for evidence-based practice in state corrections systems.
+This current initiative will generate learning models that will enable
+effective corrections interventions (pretrial, jail, probation, parole,
+private/public, etc.) across varying local communities. Given the scope
+and variety of possible applications in this project, these initial models
+for integrating principles of effective interventions, organizational change,
+and collaboration have been deliberately developed as more abstract and general conceptualizations.
+There are eight (8) Principles for Effective Offender Interventions that are integral to this project’s learning models. The organization or system that is most successful in initiating and maintaining offender interventions and supervision practices consistent with these principles will likely realize the greatest net improvements in public safety impact.
+This model recognizes that simply expounding on the scientific principles is not sufficient to guide the necessary ongoing political and organizational change to support these principles in a meaningful fashion. Separate, related strategies in external stakeholder collaboration and internal organizational development are both necessary and addressed elsewhere in this project’s Evidence-Based Practice model.
+Community corrections will only develop into a “science” as it increases its commitment to measurable outcomes.
+ Clarifying Terms:
+The terms best practices, what works, and evidence-based practice (EBP) are often used interchangeably. While these buzz words refer to similar notions, pointing out the subtle distinctions between them helps to clarify the distinct meaning of evidence-based practices.
+For example, best practices do not necessarily imply attention to outcomes, evidence, or measurable standards. Best practices are often based on the collective experience and wisdom of the field, and may be based on insuffi- cient or inconclusive evidence; this type of tenet represents received rather scientifically tested knowledge.
+What works implies linkage to general outcomes, but does not specify the kind of outcomes desired (e.g. just deserts, deterrence, organizational efficiency, rehabilitation, etc.). Specificity regarding the desired outcomes is essential to achieving system improvement (Harris 1986; O'Leary and Clear 1997).
+In contrast, evidence-based practice implies that 1) one outcome is desired over others; 2) it is measurable; and 3) it is defined according to practical realities (i.e. public safety) rather than immeasurable moral or value-oriented standards. Thus, while these three terms are often used interchangeably, EBP is more appropriate for scientific exploration within human service disciplines (Ratcliffe et al, 2000; Tilley & Laycock, 2001; AMA, 1992; Springer et al, 2003; McDonald, 2003). Throughout the remaining document, EBP in community corrections and the scientific principles associated with it will be referenced to the outcome of improved reductions in recidivism.
+ Any agency interested in understanding and improving outcomes, must reckon with managing the operation as a set of highly interdependent systems.
+(See Appendix A.)
+  Two fundamentally different approaches are necessary for such an alteration in priorities.
+(See Appendix B.)
+ Page 2
+  The current research on offender rehabilitation and behavioral change is now sufficient to enable corrections to make meaningful inferences regarding what works in our field to reduce recidivism and improve public safety. Based upon previous compilations of research findings and recommendations (Burrell, 2000; Carey, 2002; Currie, 1998; Corbett et al, 1999; Elliott et al, 2001; McGuire, 2002; Latessa et al, 2002; Sherman et al, 1998; Taxman & Byrne, 2001), there now exists a coherent framework of guiding principles. These principles are interdependent and each is
+supported by existing research. (see Appendix A)
+ 
+  Evidence-Based Practice (EBP) (con’t.)
+The following framework of principles is described in developmental order. None of the principles operate in a vacuum though; they are all highly interdependent. For example, offenders must be assessed for risk before they are assessed for need. This allows agencies to target resources on high-risk offenders and avoid the pitfalls of expending large amount of resources on low-risk / high-need offenders. The guiding logic here is based on understanding that certain developmental steps must precede others, whether building a good client supervision relationship, a learning organization, or a system that deliberately improves public safety through risk and recidivism reduction.
+(see Appendix B)
+ Eight Evidence-Based Principles for Effective Interventions
+1. Assess Actuarial Risk/Needs. 2. Enhance Intrinsic Motivation. 3. Target Interventions.
+a. Risk Principle: Prioritize supervision and treatment resources for higher risk offenders.
+b. Need Principle: Target interventions to criminogenic needs.
+c. Responsivity Principle: Be responsive to temperament, learning style, motivation, culture, and gender when assigning programs.
+d. Dosage: Structure 40-70% of high-risk offenders’ time for 3-9 months.
+4. Skill Train with Directed Practice (use Cognitive Behavioral treatment methods).
+5. Increase Positive Reinforcement.
+6. Engage Ongoing Support in Natural Communities. 7. Measure Relevant Processes/Practices.
+8. Provide Measurement Feedback.
+  1) Assess Actuarial Risk/Needs.
+Develop and maintain a complete system of ongoing offender risk screening / triage and needs assessments. Sizing-up offenders in a reliable and valid manner is a prerequisite for the effective management (supervision and treatment) of offenders. Numerous principles of best practice in corrections (e.g., Risk, Need, and Responsivity) are contingent on obtaining timely, relevant measures of offender risk and need at the individual and population levels. Offender assessments are most reliable and valid when staff are formally trained to administer tools. Screening and assessment tools that focus on dynamic and static risk factors, profile criminogenic needs, and have been validated on similar populations are preferred. They should also be supported by sufficiently detailed and accurate policy and procedures.
+Offender assessment is as much an ongoing function as it is a formal event. Case information that is gathered informally through routine interactions and observations with offenders is just as important as formal assessment guided by instruments. Formal and informal offender assessments should reinforce one another. They should combine to enhance formal reassessments, case decisions, and working relations between practitioners and offenders throughout the jurisdiction of supervision.
+(Andrews, et al, 1990; Andrews & Bonta, 1998; Gendreau, et al, 1996; Kropp, et al, 1995; Meehl, 1995; Clements, 1996)
+ Page 3
+ 
+  Eight Principles for Evidence-Based Practice (EBP) in Community Corrections (con’t.)
+ 2) EnhanceIntrinsicMotivation.
+Staff should relate to offenders in interpersonally sensitive and constructive ways to enhance intrinsic motivation in offenders. Behavioral change is quite often an inside job; for lasting change to occur, there needs to be a level of intrinsic motivation. Motivation to change is dynamic and the probability that change may occur is strongly influenced by interpersonal interactions. Feelings of ambivalence that usually accompany change can be explored through motivational interviewing-based communication to enhance intrinsic motivation. When the offender begins to present arguments for change, research strongly suggests that motivational interviewing techniques, rather than persuasion tactics, more effectively enhance motivation for initiating and maintaining change behavior.
+(Miller & Rollnick, 2002; Miller & Mount, 2001; Harper & Hardy, 2000; Ginsburg, et al, 2002; Ryan & Deci, 2000)
+ 3) Target Interventions.
+ a)
+A. RISK PRINCIPLE: Prioritize supervision and treatment resources for higher risk offenders.
+B. NEED PRINCIPLE: Target interventions to criminogenic needs.
+C. RESPONSIVITY PRINCIPLE: Be responsive to temperament, learning style, motivation, gender, and culture when assigning to programs.
+D. DOSAGE: Structure 40-70% of high-risk offenders’ time for 3-9 months.
+E. TREATMENT PRINCIPLE: Integrate treatment into the full sentence/sanction requirements.
+Risk Principle
+Prioritize primary supervision and treatment resources for offenders who are at higher risk to re-offend. Shifting program and personnel resources to focus more on higher risk offenders promotes harm-reduction and public safety in several ways. First, higher risk offenders have a greater need for pro-social skills and thinking and consequently, are more apt to demonstrate significant improvements through related interventions. Second, offenders that are frequently involved in criminal behavior (high base-rate offenders) are found in greater prevalence in higher- rather than lower- risk offender populations. In terms of public safety, there is a much larger bang-for-the-buck when high base-rate offenders reduce or end their criminality. Finally, supervision and treatment resources that are focused on lower- risk offenders tend to produce little if any net positive effect on recidivism rates.
+High-risk offenders generally present multiple criminogenic areas (e.g., dysfunctional family relations, anti-social peers, substance abuse, low self-control, and anti-social values and attitudes) needing to be addressed at significant levels. Successfully addressing this population’s issues requires placing these types of offenders on smaller caseloads, applying well developed case plans, and placing offenders into sufficiently intense cognitive-behavioral interventions that target their specific criminogenic needs.
+(Gendreau, 1997; Andrews & Bonta, 1998; Harland, 1996; Sherman, et al, 1998; McGuire, 2001, 2002) b) Criminogenic Need Principle
+Address offenders’ greatest criminogenic needs. Offenders have a variety of needs, some of which are directly linked to criminal behavior. These criminogenic needs are dynamic risk factors that, when addressed or changed, affect the offender’s risk for recidivism. Examples of criminogenic needs are: criminal personality; antisocial attitudes, values, and beliefs; low self control; criminal peers; substance abuse; and dysfunctional family. Based on an assessment of the offender, these criminogenic needs can be prioritized so that services are focused on the greatest criminogenic needs.
+(Andrews & Bonta, 1998; Lipton, et al, 2000; Elliott, 2001; Harland, 1996)
+(Continued on pg 5)
+ Page 4
+    
+  Eight Principles for Evidence-Based Practice (EBP) in Community Corrections (con’t.)
+ (Continued from pg 4)
+c) Responsivity Principle
+Responsivity requires that we consider individual characteristics when matching offenders to services. These character- istics include, but are not limited to: culture, gender, motivational stages, developmental stages, and learning styles. These factors influence an offender’s responsiveness to different types of treatment.
+The principle of responsivity also requires that offenders are provided with treatment that is proven effective with the offender population. Certain treatment strategies, such as cognitive-behavioral methodologies, have consistently produced reductions in recidivism with offenders under rigorous research conditions.
+Providing appropriate responsivity to offenders involves selecting services in accordance with these factors, including: a) Matching treatment type to offender;
+b) Matching treatment provider to offender; and
+c) Matching style and methods of communication with offender’s stage of change readiness.
+(Guerra, 1995; Miller & Rollnick, 1991; Gordon, 1970; Williams, et al, 1995)
+d) Dosage
+Occupy 40%-70% of these offenders’ free time in the community over a three to nine month period. During this initial phase, higher risk offenders’ free time should be clearly occupied with delineated routine and appropriate services, (e.g., outpatient treatment, employment assistance, education, etc.) Providing appropriate doses of services, pro-social struc- ture, and supervision is a strategic application of resources. Higher risk offenders require significantly more initial struc- ture and services than lower risk offenders. Certain offender subpopulations (e.g., severely mentally ill, chronic dual diagnosed, etc.) commonly require strategic, extensive, and extended services. However, too often individuals within these subpopulations are neither explicitly identified nor provided a coordinated package of supervision/services. The evidence indicates that incomplete or uncoordinated approaches can have negative effects, often wasting resources.
+(Palmer, 1995; Gendreau & Goggin, 1995; Steadman, 1995; Silverman, et al, 2000)
+e) Treatment Principle
+Integrate treatment into sentence/sanction requirements through assertive case management (taking a proactive and stra- tegic approach to supervision and case planning). Treatment, particularly cognitive-behavioral types, should be applied as an integral part of the sentence/sanction process. Delivering targeted and timely treatment interventions will provide the greatest long-term benefit to the community, the victim, and the offenders. This does not necessarily apply to lower risk offenders, who should be diverted from the criminal justice and corrections systems whenever possible.
+(Palmer, 1995; Clear, 1981; Taxman & Byrne, 2001; Currie, 1998; Petersilia, 1997, 2002, Andrews & Bonta, 1998)
+  4) Skill Train with Directed Practice (using cognitive-behavioral treatment methods).
+Provide evidence-based programming that emphasizes cognitive-behavioral strategies and is delivered by well trained staff. To successfully deliver this treatment to offenders, staff must understand antisocial thinking, social learning, and appropriate communication techniques. Skills are not just taught to the offender, but are practiced or role-played and the resulting pro-social attitudes and behaviors are positively reinforced by staff. Correctional agencies should prioritize, plan, and budget to implement predominantly programs that have been scientifically proven to reduce recidivism.
+(Mihalic, et al, 2001; Satchel, 2001; Miller & Rollnick, 2002; Lipton, et al, 2000; Lipsey, 1993; McGuire, 2001, 2002; Aos, 2002)
+ Page 5
+ 
+  Eight Principles for Evidence-Based Practice (EBP) in Community Corrections (con’t.)
+ 5) IncreasePositiveReinforcement.
+When learning new skills and making behavioral changes, human beings appear to respond better and maintain learned behaviors for longer periods of time, when approached with carrots rather than sticks. Behaviorists recom- mend applying a much higher ratio of positive reinforcements to negative reinforcements in order to better achieve sustained behavioral change. Research indicates that a ratio of four positive to every one negative reinforcement is optimal for promoting behavior changes. These rewards do not have to be applied consistently to be effective (as negative reinforcement does) but can be applied randomly.
+Increasing positive reinforcement should not be done at the expense of or undermine administering swift, certain, and real responses for negative and unacceptable behavior. Offenders having problems with responsible self-regulation generally respond positively to reasonable and reliable additional structure and boundaries. Offenders may initially overreact to new demands for accountability, seek to evade detection or consequences, and fail to recognize any personal responsibility. However, with exposure to clear rules that are consistently (and swiftly) enforced with appropriate and graduated consequences, offenders and people in general, will tend to comply in the direction of the
+most rewards and least punishments. This type of extrinsic motivation can often be useful for beginning the process of behavior change.
+(Gendreau & Goggin, 1995; Meyers & Smith, 1995; Higgins & Silverman, 1999; Azrin, 1980; Bandura et al,1963; Bandura, 1996)
+ 6) EngageOn-goingSupportinNaturalCommunities.
+Realign and actively engage pro-social supports for offenders in their communities. Research indicates that many successful interventions with extreme populations (e.g., inner city substance abusers, homeless, dual diagnosed) actively recruit and use family members, spouses, and supportive others in the offender’s immediate environment to positively reinforce desired new behaviors. This Community Reinforcement Approach (CRA) has been found effective for a variety of behaviors (e.g., unemployment, alcoholism, substance abuse, and marital conflicts). In addition, relatively recent research now indicates the efficacy of twelve step programs, religious activities, and restorative justice initiatives that are geared towards improving bonds and ties to pro-social community members.
+(Azrin, & Besalel, 1980; Emrick et al, 1993; Higgins & Silverman, 1999; Meyers & Smith, 1997; Wallace, 1989; Project MATCH Research Group, 1997; Bonta et al, 2002; O’Connor & Perryclear, 2003; Ricks, 1974; Clear & Sumter; 2003; Meyers et al, 2002)
+   7) Measure Relevant Processes/Practices.
+Accurate and detailed documentation of case information, along with a formal and valid mechanism for measuring outcomes, is the foundation of evidence-based practice. Agencies must routinely assess offender change in cognitive and skill development, and evaluate offender recidivism, if services are to remain effective.
+In addition to routinely measuring and documenting offender change, staff performance should also be regularly as- sessed. Staff that are periodically evaluated for performance achieve greater fidelity to program design, service deliv- ery principles, and outcomes. Staff whose performance is not consistently monitored, measured, and subsequently reinforced work less cohesively, more frequently at cross-purposes and provide less support to the agency mission.
+(Henggeler et al, 1997; Milhalic & Irwin, 2003; Miller, 1988; Meyers et al, 1995; Azrin, 1982; Meyers, 2002; Hanson & Harris, 1998; Waltz et al, 1993; Hogue et al, 1998; Miller & Mount, 2001; Gendreau et al, 1996; Dilulio, 1993)
+ Page 6
+ 
+  Eight Principles for Evidence-Based Practice (EBP) in Community Corrections (con’t.)
+ 8) ProvideMeasurementFeedback.
+An overarching quality assurance system is necessary to monitor delivery of services and maintain and enhance fidelity and integrity. Providing feedback builds accountability and is associated with enhanced motivation for change, lower treatment attrition, and greater outcomes (e.g., reduced drink/drug days; treatment engagement; goal achievement).
+(Miller, 1988; Project Match Research Group, 1997; Agostinelli et al, 1995; Alvero et al, 2001; Baer et al, 1992; Decker, 1983; Luderman, 1991; Miller, 1995; Zemke, 2001; Elliott, 1980)
+    Initial assessment followed by motivational enhancement will help staff to prepare for the significant changes ahead.
+(See Appendix C.)
+  At an organizational level, gaining appreciation for outcome measurement begins with establishing relevant performance measurement (See Appendix D.)
+  Too often programs or practices are promoted as having research support without any regard for either the quality or the research methods that were employed.
+(See Appendix E.)
+   Conclusion
+Aligning principles and core components of an agency is a consummate challenge and will largely determine the impact the agency has on sustained reductions in recidivism. In order to accomplish this shift to an outcome orientation, practitioners must be prepared to dedicate themselves to a mission that focuses on achieving sustained reductions in recidivism. By themselves, the scientific principles presented in this document are unlikely to produce a mandate for redirecting and rebuilding an agency's mission - leadership in organizational change and collaboration for systemic change will both also be necessary.
+The framework of principles and the developmental model they comprise can and should be operationalized at the three critical levels of: 1) the individual case; 2) the agency; and 3) the system. At each of these levels
+thorough, comprehensive and strategic planning will be necessary in order to succeed. Identifying, prioritizing, and formulating well-timed plans for addressing such particular issues are tasks requiring system collaboration and a focus on organizational development.
+A final caveat here is a caution about implementation; the devil’s in the details. Though the track record for program implementation in corrections may not be especially stellar, there is helpful literature regarding implemen- tation principles. Prior to embarking on any implementation or strategic planning project, a succinct review of this literature is recommended (Mihalic & Irwin, 2003; Ellickson et al, 1983; Durlak, 1998; Gendreau et al, 1999; Gottfredson et al, 2000; Henggeler et al, 1997; Harris & Smith, 1996).
+ Page 7
+ 
+            Supporting the effective management and operation of the nation's community corrections agencies
+Project Contact Information:
+National Institute of Corrections (NIC), Community Corrections Division www.nicic.org
+Dot Faust, Correctional Program Specialist dfaust@bop.gov
+(202) 514-3001 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Crime and Justice Institute (CJI)
+Www.cjinstitute.org
+Elyse Clawson, Project Director eclawson@crjustice.org (617) 482-2520, ext. 120
+Lore Joplin, Project Manager ljoplin@crjustice.org (617) 482-2520, ext. 124
+Creative, collaborative approaches to complex social issues
+    Special recognition and deepest thanks go to the following project team members who contributed to these documents:
+Brad Bogue (primary author), Nancy Campbell, Elyse Clawson, Dot Faust, Kate Florio, Lore Joplin, George Keiser, Billy Wasson, and William Woodward
+The project team is committed to enhancing community corrections systems to better reduce recidivism using research-supported principles.
+List of Appendices
+♦ Appendix A (page 9):
+Components of Correctional Interventions
+♦ Appendix B (pages 10-11):
+Implementing the Principles of Evidence-Based Practice
+♦ Appendix C (page 12):
+Applying the Principles at the Case, Agency and System Levels
+♦ Appendix D (page13-15):
+Seven Recommended Strategies for Implementing Effective Interventions
+♦ Appendix E (page 16): Levels of Research Evidence
+♦ References (pages 17-19)
+    Page 8
+ 
+  Appendix A: Components of Correctional Interventions
+One way to deconstruct a community corrections treatment program for planning or evaluation purposes is to consider the separate aspects of the program experienced by an offender that might affect their outcome or potential for behavioral change. Researchers and practitioners both are quick to recognize a number of common elements in all programs that have some potential impact on outcomes such as recidivism:
+⇒ (The Skills of Staff)—a wide array of ongoing interpersonal relations specifically pertaining to the communication skills and interactions exercised between staff and offenders;
+⇒ (Decisions on Program Assignment)—continuous programmatic decisions that match offenders to varying levels and types of supervision conditions;
+⇒ (Programming) – services, i.e. both treatment and monitoring interventions;
+⇒ (Sanctions)—determinations of accountability for assigned obligations and accompanying
+compliance consequences, i.e., both positive and negative reinforcements;
+⇒ (Community Linkages)—formal and informal interfaces with various community organiza- tions and groups;
+⇒ (Case Management)—a case management system that relegates individual case objectives and expectations within a prescribed set of policies and procedures; and
+⇒ (Organization)—internal (operational) and external (policy environment) organizational structures, management techniques, and culture.
+Each of these factors can be construed as separate processes that interact with each other continuously in any commu- nity corrections setting (e.g., probation, parole, outpatient treatment, residential, etc.). Depending on how well the processes are aligned and managed, they can either enhance or diminish successful outcomes. It is also quite possible that these different processes could compliment or acerbate other components. An agency, for example, might provide an excellent cognitive skill-building curriculum that has good research support but is delivered by staff with relatively limited clinical skills. Conversely, an agency might be structured so that there is no differentiation of services (one size fits all) and the programming has limited or negligible research support, but staff's overall skills are excellent.
+A broad interpretation of the existing research suggests that each of the above seven factors have their own independ- ent effect on successful outcomes.
+Any agency interested in understanding and improving outcomes, must reckon with managing the operation as a set
+of highly interdependent systems. An agency's ability to become progressively more accountable through the utilization of reliable internal (e.g., information) controls is integral to EBP. This approach is based on established business management practices for measuring performance objectives and assuring greater accountability for specified outcomes. Providing routine and accurate performance feedback to staff is associated with improved productivity, profit, and other outcomes.
+  Page 9
+ 
+  Appendix B: Implementing the Principles of Evidence-Based Practice
+Implementing the principles of Evidence-Based Practice in Community Corrections is a tremendous challenge requiring strong leadership and commitment. Such an undertaking involves more than simply implementing a research recommended program or two. Minimally, EBP involves:
+a) developing staff knowledge, skills, and attitudes congruent with current research-supported practice (principles #1-8); b) implementing offender programming consistent with research recommendations (#2-6);
+c) sufficiently monitoring staff and offender programming to identify discrepancies or fidelity issues (#7);
+d) routinely obtaining verifiable outcome evidence (#8) associated with staff performance and offender programming.
+Implementing the a-d functions above is tantamount to revolutionizing most community corrections organizations. Nevertheless, many agencies are taking on this challenge and have begun to increase their focus on outcomes and shift their priorities. Two fundamentally different approaches are necessary for such an alteration in priorities. One brings insights gleaned from external research evidence to bear on internal organizational practices. The other increases organizational capac- ity to internally measure performance and outcomes for current practice. When these two interdependent strategies are em- ployed, an agency acquires the ability to understand what's necessary and practicable to improve its outcomes. The following describes how these approaches support EBP in slightly different ways.
+Outside (Evidence) — In Approach
+Adopting research-supported program models fosters an outcome orientation and minimizes the syndrome of ‘reinventing-the-wheel’. Insights, practices, and intervention strategies gleaned from external research can significantly improve the efficacy any program has if implemented with appropriate fidelity.
+One approach to EBP is to pay strict attention to the external research and carefully introduce those programs or interventions that are supported by the best research evidence. There are a growing number of examples of internal promotion of external evidence-based programs. The Blueprint Project, conducted by the Center for the Study and Prevention of Violence used independent outside research to promote the implementation of good juvenile programs.
+The National Institute of Justice commissioned research investiga- tors to conduct similar reviews of both adult and juvenile offender programming, recommending programs according to the caliber of the research support (Sherman et al, 1998). The Washington State Institute for Public Policy regularly conducts and publishes similar reviews for adult and juvenile offender programming implemented in Washington (Aos, 1998).
+What these strategies have in common is the promotion of research- supported external program models within internal implementation and operations. These are outside-in applications striving to replicate proven models with fidelity. This approach is limited by the fact that environmental, cultural, and operational features vary between organizations and often have significant effect on program efficacy (Kibel 1998; Palmer 1995). Thus, the second inside-out approach to evidence-based practice attends to these internal factors.
+     The Blueprint Project
+The Blueprint Project, conducted by the Center for the Study and Prevention of Violence (CSPV), examined literature on over 500 different program interventions with at-risk or delinquent youth. Ten programs met CSPV’s strict criteria for scientific support. These were labeled Blueprint programs, while programs that partially met the criteria were designated Promising (Mihalic et al. 2001).
+CSPV documented the operational details of these programs and distributed the descriptions to practitioners, emphasizing the importance of maintaining fidelity to the program models.
+Thus, programs that were scientifically determined to produce systematic and significant results were identified and promoted through a central clearing-house.
+ Page 10
+ 
+  Appendix B: Implementing the Principles of Evidence-Based Practice (con’t.)
+ Inside (Evidence) — Out Approach
+Developing and maintaining ongoing internal controls, particularly information controls related to key service components (e.g., treatment dosage, treatment adherence measures, etc.) ensures greater operational ability to effect outcomes.
+   The program evaluation, performance, and audit research literature emphasizes that insufficient information controls not only hamper program assessment, but impede program performance (Mee-Lee et al, 1996; Burrell, 1998; Lipton et al, 2000; Dilulio, 1993). Such internal control issues appear not only in program evaluation research, but also in organizational development, business, and systems analysis.
+Internal controls provide information and mechanisms for ensuring that an agency will accomplish its mission (i.e., recidivism reduction). Agencies with custodial corrections orientations that emphasize just-deserts applications rarely utilize the same level of sophisticated information controls required by outcome-oriented corrections (Burrell 1998; Dilulio 1993; Justice 1996; Lipton et al. 2000). Therefore, developing new methods for gathering operational information and then sharing and learning from it is a large part of the transition from custodial to outcome orientation in corrections.
+Information controls necessary for implementing new or best practices specifically focus on key components within the desired practices. They include an ongoing process of identifying, measuring, and reporting key operational processes and functions:
+⇒ Offender measures:
+-Risk Levels -Criminogenic Needs
+-Motivation
+⇒ Operational measures:
+-Program Availability -Program Integrity
+-Program Quality Assurance Norms
+⇒ Staff measures:
+-Interpersonal skills
+-Abilities to discern anti-social thinking and
+behavior
+-Attitudes and beliefs regarding interventions
+     Page 11
+ 
+ Eight Guiding Principles for Risk/Recidivism Reduction
+ENGAGE ON-GOING SUPPORT IN COMM.
+INCREASE POSITIVE REINFORCEMENT
+SKILL TRAIN WITH DIRECTED PRACTICE
+TARGET INTERVENTION
+ENHANCE INTRINSIC MOTIVATION
+RISK/NEED: ASSESS ACTUARIAL RISK
+The Eight Principles as a Guiding Framework
+The eight principles (see left) are organized in a developmental sequence and can be applied at three fundamentally different levels:
+1) the individual case; 2) the agency; and
+3) the system.
+Given the logic of each different principle, an overarching logic can be inferred which suggests a sequence for operationalizing the full eight principles.
+Appendix C: Applying the Principles at the Case, Agency and System Levels
+MEASURE RELEVANT PRACTICES
+MEASUREMENT FEEDBACK
+Case Level
+Agency Level
+At the case level, the logical implication is that one must assess (principle #1) prior to triage or target- ing intervention ( #3), and that it is beneficial to begin building offender motivation ( #2) prior to engaging these offenders in skill building activities (# 4). Similarly, positively reinforcing new skills (#5) has more relevancy after the skills have been introduced and trained (#4) and at least partially in advance of the offender’s realignment with pro-social groups and friends (#6 ). The seventh (measure relevant practices) and eighth (provide feedback) principles need to follow the activities described throughout all the proceeding principles. Assessing an offender’s readiness to change as well as ability to use newly acquired skills is possible anywhere along the case management continuum. These last two principles can and should be applicable after any of the earlier principles but they also can be considered cumulative and provide feedback on the entire case management process.
+System Level
+The application of the Framework Principles at the system level is fundamentally no different than the
+The principles, when applied at the agency level, assist with more closely aligning staff behavior and
+agency operations with EBP. Initial assessment followed by motivational enhancement will help staff to prepare for the significant changes ahead. Agency priorities must be clarified and new protocols established and trained. Increasing positive rewards for staff who demonstrate new skills and proficiency is straightforward and an accepted standard in many organizations. The sixth principle regarding providing ongoing support in natural communities can be related to teamwork within the agency as well as with external agency stakeholders. The seventh and eighth principles are primarily about developing quality assurance systems, both to provide outcome data within the agency, but also to provide data to assist with marketing the agency to external stakeholders.
+agency level in terms of sequence and recommended order though it is both the most critical and challenging level. Funding, for most systems, channels through state and local agencies having either population jurisdiction or oversight responsibilities. Demonstrating the value of EBP and effective interventions is most crucial at this level, in order to effectively engage the debate for wiser future funding. However, as the scope and complexity increases with a system-wide application of these principles, the difficulties and challenges increase for communication, accountability, and sustaining morale. Therefore, in addition to adherence to a coherent strategy for EBP, development of implementation plans is warranted. Another distinction in applying the principles at the system level is the need for greater abstraction and policy integration. The principles for EBP must be understood and supported by policy makers so that appropriate policy development coincides effectively with implementation. Once a system decisively directs its mission towards an outcome such as sustained reductions in recidivism, it becomes incumbent on the system to deliberately rely upon scientific methods and principles.
+Page 12
+
+  Appendix D: Seven Recommended Guidelines for Implementing Effective Interventions
+ Seven Recommended Guidelines for Implementing Effective Interventions
+I. Limit new projects to mission-related initiatives.
+II. Assessprogressofimplementationprocessesusingquantifiabledata.
+III. Acknowledge and accommodate professional over-rides with adequate accountability.
+IV. Focus on staff development, including awareness of research, skill development, and management of behavioral and organizational change processes, within the context of a complete training or human resource development program.
+V. Routinely measure staff practices (attitudes, knowledge, and skills) that are considered related to outcomes.
+VI. Provide staff timely, relevant, and accurate feedback regarding performance related to outcomes. VII. Utilize high levels of data-driven advocacy and brokerage to enable appropriate community services.
+  These recommended guidelines for implementing effective interventions are based on recent preliminary implementation research as well as some of the collective experience and wisdom of the field. Therefore these guidelines are representative of received rather than scientifically tested knowledge.
+ I. Limit new projects to mission-related initiatives.
+Clear identification and focus upon mission is critical within business and the best-run human service agencies. When mission scope creep occurs, it is detrimental to efficient processes, morale, and outcomes.
+(Osborne & Garber, 1992; Senge, 1994; Harris & Smith, 1996; Currie, 1998; Lipsey, 2003, Moore, 2000; Ellickson et al, 1983)
+ II. Assessprogressofimplementationprocessesusingquantifiabledata.
+Monitoring system implementations for current, valid information regarding progress, obstacles, and direction changes is pivotal to project success. These monitoring systems can not always be designed in advance but implementation plans should include provisions for obtaining this type of ongoing information.
+(Harris & Smith, 1996; Burrell, 2000; Dilulio, 1993; Palmer, 1995; Mihalic & Irwin, 2003; Gottfredson et al, 2000)
+  Page 13
+ 
+  Appendix D: Seven Recommended Guidelines for Implementing Effective Interventions (con’t.)
+ III. Acknowledge and accommodate professional over-rides with adequate accountability.
+No assessment tool, no matter how sophisticated, can (or should) replace a qualified practitioner’s professional judgment. In certain instances, only human judgment can integrate and make the necessary subtle distinctions to adequately recognize and reinforce moral or behavioral progress. All professional over-rides need to be adequately documented, defensible, and made explicit.
+(Burrell, 2000; Clear, 1981; Andrews, et al, 1990; Kropp, et al, 1995; Gendreau et al, 1999)
+   IV. Focus on staff development, including awareness of research, skill development, and management of behavioral and organizational change processes, within the context of a complete training or human resource development program.
+Staff need to develop reasonable familiarity with relevant research. Beginning in the 1990’s there has been tremen- dous growth in the volume and quality of corrections related research. Much of the more recent research is directly relevant to everyday operational practice, therefore it is incumbent on professionals in the field to keep abreast of this literature. The current research literature includes in-house investigations, internet resources, and other public sector articles, as well as professional and academic journal publications. This literature is also evolving and becoming more international and inter-disciplinary in scope.
+It is the responsibility of agency leadership to assist in the successful dissemination of recent research findings rele- vant to respective classes of job performers. Informed administrators, information officers, trainers, and other organ- izational ambassadors are necessary to facilitate this function in larger agencies or systems. Effective fulfillment of this principle is essential to promoting Learning Organizations.
+(Latessa, et al, 2002; Elliott, 1980; Harland, 1996; Andrews, 1989; Miller & Rollnick, 2002; Gornik, 2002; Taxman & Byrne, 2001; Taxman, 2002; Baer, et al, 1999; Gendreau, ibid; Durlak, 1998)
+  V. Routinely measure staff practices (attitudes, knowledge, and skills) that are considered related to outcomes.
+Critical staff processes and practices should be routinely monitored in an accurate and objective manner to inform managers of the state of the operation. These measures occur at multiple levels (e.g., aggregate, for example: turnover and organizational cultural beliefs; and individual, for example: interviewing skills and ability to identify thinking errors) and should be organized accordingly and maintained in ongoing databases for the purposes of both supporting management and staff development.
+(Gendreau, ibid; Henggeler et al, 1997; Miller & Mount, 2001)
+ Page 14
+ 
+  Appendix D: Seven Recommended Guidelines for Implementing Effective Interventions (con’t.)
+ VI. Provide staff timely, relevant, and accurate feedback regarding performance related to outcomes.
+Programs and agencies that want to produce better outcomes will ultimately learn to pay closer and more attention to what is involved in generating their own outcomes. Initially, agencies have much to learn and incorporate into policy from the generic research literature in corrections. Ultimately however, in order to achieve deeper adaptations and organizational support of effective practices, immediate, objective, and internal measures of the respective agency will be routinely required.
+At an organizational level, gaining appreciation for outcome measurement begins with establishing relevant performance measures. Measuring performance implies a relationship between a given activity and a given output or outcome. These types of measures can be established at either the agency (aggregate) or individual job performer levels and there are several important issues related to establishing effective performance measures:
+1) If a certain kind of performance is worth measuring, it’s worth measuring right (with reliability and validity);
+2) Any kind of staff or offender activity is worth measuring if it is reliably related to desirable outcomes;
+3) If performance measures satisfy both the above conditions, these measures should be routinely generated and made available to staff and/or offenders, in the most user-friendly manner possible.
+The primary ingredients of any correctional system or treatment program are staff and offenders. Therefore when a commitment emerges to develop greater focus on outcomes, it behooves management to learn how to better measure staff, offenders, and their related interactions. The latter is an evolutionary and ongoing process rather than change of operational components. Some examples of promising performance measures at the organizational level are: pro- portion of resource gaps at various treatment levels; degree of implementation and program fidelity; staff turnover; and organizational cultural norms. Examples of promising job performer level measures are: adequacy of communi- cation (motivational interviewing) skills; consistency in certain functions (e.g., assessment, case planning, treatment referrals); and caseload average gain scores for offender dynamic risk indicators.
+(Burrell, 1998; Lipton, et al, 2000; Carey, 2002; O’Leary & Clear, 1997; Bogue, 2002; Maple, 2000; Henggeler, ibid; Miller, ibid)
+  VII. Utilize high levels of data-driven advocacy and brokerage to enable appropriate community services.
+In terms of producing sustained reductions in recidivism, the research indicates that the treatment service network and infrastructure is the most valuable resource that criminal justice agencies can access. Collaborating and provid- ing research and quality assurance support to local service providers enhances interagency understanding, service credibility, and longer-term planning efforts. It also contributes to the stability and expansion of treatment services.
+(Corbette, et al, 1999; Gendreau & Goggin, 1995; Gendreau, et al, 1993; Gornik, 2002; Meyers & Smith, 1995; Bogue, 2002; Maple, 1999)
+ Page 15
+ 
+  Appendix E: Levels of Research Evidence
+ We have identified eight separate principles related to reduced recidivism outcomes in the research
+literature. Research does not support each of these principles with equal volume and quality, and even if it did, each principle would not necessarily have similar effects on outcomes. Too often programs or practices are promoted as having research support without any regard for either the quality or the research methods that were employed. Consequently, we have established a research support gradient (see below) indicating current research support for each principle. All of the eight principles for effective intervention fall between WW (Gold) and Promising WW (Bronze) in research support.
+  RESEARCH SUPPORT GRADIENT
+   GOL D
+• Experimental/control research design withcontrols forattrition • Significantsustainedreductionsinrecidivismobtained
+• Multiplesitereplications
+• Pre ponder ance of allev idence suppor ts effec tiveness
+SILVER
+• Quasi-experimentalcontrolresearchwith appropriate statistical
+WW (GOLD)
+  controls forcomparison group WW
+• Significantsustainedreductionsinrecidivismobtained
+• Multiplesitereplications
+• Pre ponder ance of allev idence suppor ts effec tiveness
+BRONZE
+• Matched comparison group withoutcomplete
+statistic alcontrols
+• Significantsustainedreductionsin recidivism
+obtained
+• Multiplesitereplications
+• Preponderance ofallevidencesupports
+effe ctiv eness
+IRON
+• Conflicting findings and/orinadequateresearch designs
+(SILVER)
+PROMISINGWW (BRONZE)
+INCONCLUSIVE
+     DIR T
+• Silver and Goldresearch showingnegatvi e outcomes
+CONCLUSIVE DOESN’TWORK(DIRT)
+(IRON)
+ The five criteria listed above are similar to what has already been employed in a number of nationally recognized projects such as the Blueprints for Violence Prevention (Mihalic et al, 2001) and the National Institute of Justice's independent review of crime prevention programs (Sherman et al, 1998).
+The highest quality research support depicted in this schema (gold level) reflects interventions and practices that have been evaluated with experimental/control design and with multiple site replications that concluded significant sustained reductions in recidivism were associated with the intervention. The criteria for the next levels of support progressively decrease in terms of research rigor requirements (silver and bronze) but all the top three levels require that a preponderance of all evidence supports effectiveness. The next rung lower in support (iron) is reserved for programs that have inconclusive support regarding their efficacy. Finally, the lowest level designation (dirt) is reserved for those programs that have research (utilizing methods and criteria associated with gold and silver levels) but the findings were negative and the programs were determined not effective.
+ Page 16
+ 
+  References for Effective Interventions
+Agostinelli, G., Brown, J.M. and Miller, W.R.. (1995) Effects of normative feedback on Consumption among heavy drink ing college students. Journal of Drug Education 25: 31-40.
+Alvero, A.M., Bucklin, B.R. & Austin, J. (2001) An objective review of the effectiveness and essential characteristics of perform ance feedback in organizational settings. Journal of Organizational Behavior Management 21(1): 3-29.
+AMA. (1992) Users' Guides to Evidence-based Medicine. Nov 4; 268(17):2420-5. Copyright 1992, American Medical As sociation. Or http://www.cche.net/usersguides/ebm.asp
+Andrews, D.A, J. Bonta, and R. Hoge. (1990). Classification for effective rehabilitation: Rediscovering psychology. Criminal Justice and Behavior 17:19-52.
+Andrews, D.A. (1989). “Personality and Crime: Knowledge Destruction and Construction in Criminology." Justice Quarterly 6:291-309.
+Andrews, D.A. & Bonta, J. (1998). The psychology of criminal conduct. Cincinnati: Anderson Publishing Co.
+Aos, S. (1998) Watching the bottom line: Cost-effective interventions for reducing crime in Washington. Washington State
+Institute for Public Policy. Olympia, WA.
+Azrin, N. H. and V. A. Besalel (1980). Job club counselor's manual. Austin, TX, Pro-Ed.
+Azrin, N. H., Sisson, R. W., Meyers, R. & Godley, M. (1982). Alcoholism treatment by disulfiram and community
+reinforcement therapy. Journal of Behavioral Therapy and Psychiatry 13(2): 105-112.
+Baer, J.S., Marlatt, A.G., Kivlanhan, D.R., Fromme, K., Larimer, M.E. & Williams, E. (1992) An experimental test of three
+methods of alcohol risk reduction with young adults. Journal of Consulting and Clinical Psychology 60(6): 974-979. Baer, J.S., D.R. Kivlahan, and D.M. Donovan. (1999). Integrating Skills Training and Motivational Therapies: Implications
+for the Treatment of Substance Dependence. Journal of Substance Abuse Treatment 17:15-23.
+Bandura, A. (1996). Mechanisms of Moral Disengagement in the Exercise of Moral Agency. Journal of Personality and So-
+cial Psychology 71:364-374.
+Bandura, A., D. Ross, et al. (1963). Vicarious Reinforcement and Imitative Learning. Journal of Abnormal and Social Psy-
+chology 67(6): 601-607.
+Bigelow, G., E. & Silverman, K. (1999). “Theoretical and empirical foundations of contingency management treatments for
+drug abuse.” Pp. 15-31 in Motivating Behavior Change Among Illicit-Drug Abusers, edited by Stephen T. Higgins &
+Kenneth Silverman. Washington, DC: American Psychological Association.
+Bonta, J., S. Wallace-Capretta, J. Rooney and K. McAnoy. (2002) An outcome evaluation of a restorative justice alternative
+to incarceration. Justice Review, 5(4): 319-338.
+Bogue, B. (2002). An evolutionary model for examining community corrections. Report to CT Judicial Branch Court Sup-
+port Services Division, November, 2002.
+Burrell, W. (1998). Probation and Public Safety: Using Performance Measures to Demonstrate Public Value. Corrections
+Management Quarterly 2:61-69.
+Burrell, W.D. (2000). Reinventing probation: Organizational culture and change. Community Corrections Report 7:49-64. Carey, M. (2002). Social learning, social capital and correctional theories: Seeking an integrated model. Paper presented at
+International Community Corrections Association conference, November, 2002.
+Clear, T.R. (1981). Objectives-Based Case Planning. NIC, Monograph 1981.
+Clear, T.R. (2002). Prisoners, prisoners, and religion: Religion and adjustment to prison. Religion, the Community, and the
+Rehabilitation of Criminal Offenders, Vol. 35 (3/4), pp 129-161.
+Clements, C.B. (1996). Offender Classification, Two Decades of Progress. Criminal Justice and Behavior 23:121-143. Corbett, R.P., D.R. Beto, B. Coen, J.J. DiIulio, B.L. Fitzgerald, I. Gregg, N. Helber, G.R. Hinzman, R. Malvestuto, M.
+Paparozzi, J. Perry, R. Pozzi, and E.E. Rhine. (1999). "Broken Windows" Probation: The next step in fighting crime.
+Center for Civic Innovation at the Manhattan Institute, New York.
+Currie, E. (1998). Crime and punishment in America. New York, NY: Metropolitan Books.
+Decker, P.J. (1983) The effects of rehearsal group size and video feedback in behavior modeling training. Personnel Train-
+ing 36: 763-773.
+Dilulio, J.J. (1993). Performance Measures for the Criminal Justice System. U.S. Bureau of Justice Statistics, Washington,
+DC.
+Durlak, J. A. (1998). Why program implementation is important. Journal of Prevention & Intervention in the community
+ 17: 5-18.
+Page 17
+  
+  References for Effective Interventions (con’t.)
+Ellickson, P., Petersilia, J., Caggiano, M. & Polin, S. (1983). Implementing new ideas in criminal justice. Santa Monica, CA, The Rand Corporation.
+Elliott, D., N. J. Hatot, et al. (2001). Youth violence: A report of the Surgeon General.
+Elliott, D. (1980). A Repertoire of Impact Measures. Handbook of Criminal Justice Evaluation: 507-515.
+Emrick, C.D., J.S. Tonigang, H. Montgomery, and L. Little. 1993. Alcoholics Anonymous: Opportunities and Alternatives.,
+edited by B.S. McCrady and W.R. Miller. New Brunswick, NJ: Alcohol Research Documentation, Inc., Rutgers Cen-
+ter of Alcohol Studies.
+Gendreau, P. and C. Goggin (1997). Correctional Treatment: Accomplishments and Realities. Correctional Counseling and
+Rehabilitation. P. V. Voorhis, M. Braswell and D. Lester. Cincinnati, Anderson.
+Gendreau, P. and C. Goggin. (1995). Principles of effective correctional programming with offenders. Center for Criminal
+Justice Studies and Department of Psychology, University of New Brunswick, New Brunswick.
+Gendreau, P., M. Paparozzi, et al. (1993). Does "Punishing Smarter" Work? An Assessment of the New Generation of Alter-
+native Sanctions in Probation. Forum On Corrections Research 5: 31-34.
+Gendreau, P., T. Little, et al. (1996). A meta-analysis of the predictors of adult offender
+Gendreau, P., Goggin, C. & Smith, P. (1999). The forgotten issue in effective correctional treatment: Program implementa-
+tion. International Journal of Offender Therapy and Comparative Criminology 43(2): 180-187.
+Gordon, T. (1970). Parent Effectiveness Training. NY:NY, Wyden.
+Gottredson, D. C. & Gottfredson, G.D. (2002) Quality of school-based prevention programs: Results from a national survey.
+Journal of Research in Crime and Delinquency 39: 3-35.
+Hanson, R. K. & Harris, A. (1998). Triggers of sexual offense recidivism. Research Summary: Corrections Research and
+Development 3(4): 1-2.
+Harland, A. T. (1996). Choosing Correctional Options that Work: Defining the Demand and Evaluating the Supply. Thou-
+sand Oaks, CA: Sage.
+Harper, R. and S. Hardy. (2000). An evaluation of motivational interviewing as a method of intervention with clients in a
+probation setting. British Journal of Social Work 30:393-400.
+Harris, P. M. & Smith, S. (1996). Developing community corrections: An implementation perspective. pp. 183-221, in
+Choosing correctional options that work: Defining the demand and evaluating the supply. Edited by A. Harland.
+Thousand Oaks, CA, Sage Publications.
+Henggeler, S. W., Melton, G. B., Brondino, M.J., Scherer, D.G. & Hanley, J.H. (1997). Multisystemic therapy with violent
+and chronic juvenile offenders and their families: The role of treatment fidelity in successful dissemination. Journal
+of Consulting and Clinical Psychology 65: 000-0013.
+Higgins, S. T. and K. Silverman, Eds. (1999). Motivating behavior change among illicit-drug abusers: Research on contin-
+gency management interventions. Washington, DC, American Psychological Association.
+Hogue, A., Liddle, H. A., Rowe, C., Turner, R.M., Dakof, G.A. & Lapann, K. (1998). Treatment adherence and differentia- tion in individual versus family therapy for dolescent substance abuse. Journal of Counseling Psychology 45: 104-114. Kropp, P., Hart, S., Webster, C., Eaves, D. (1995). Manual for the Spousal Assault Risk Assessment Guide.
+Latessa, E., F. Cullen and Gendreau, P. (2002). Beyond correctional quackery: Professionalism and the possibility of profes-
+sional treatment. Federal Probation. September.
+Lipsey, M. W. and D. B. Wilson (1993). The Efficacy of Psychological, Educational, and Behavioral Treatment. American
+Psychologist 48(12): 1181-1209.
+Lipton, D. S., D. Thornton, et al. (2000). Program accreditation and correctional treatment. Substance Use & Misuse 35(12-
+14): 1705-1734.
+Ludeman, K. (1991) Measuring skills and behavior. Training & Development Nov.:61-66.
+Maple, J. (1999). Crime Fighter. NY:NY, Doubleday Publishing.
+McDonald, C. (2003) Forward via the Past? Evidence-Based Practice as Strategy in Social Work, The Drawing Board: An
+Australian Review of Public Affairs. March. Vol. 3(3): 123-142. Or
+http://www.econ.usyd.edu.au/drawingboard/journal/0303/mcdonald.pdf
+McGuire, J. (2001). What works in correctional intervention? Evidence and practical implications. Pp. 25-43 in Offender rehabilitation in practice: Implementing and evaluating effective programs., edited by D. F. Gary Bernfeld, Alan Leschied. New York, NY: John Wiley & Sons, LTD.
+        McGuire, J. (2002). Evidence-based programming today. Paper presented International Community Corrections Association conference, Boston, MA, November, 2002.
+Page 18
+ 
+  References for Effective Interventions (con’t.)
+Mee-Lee, D., L. Gartner, et al. (1996). Patient Placement Criteria for the Treatment of Substance-Related Disorders, Second Edition. American Society of Addiction Medicine PPC-2.
+Meyers, R.J. and J.E. Smith. (1995). Clinical Guide to Alcohol Treatment: The Community Reinforcement Approach. NY:NY, Guilford Press.
+Meyers, R.J. and J.E. Smith. (1997). Getting off the fence: Procedures to engage treatment-resistant drinkers. Journal of Substance Abuse Treatment, 14, 467-472.
+Meyers, R.J, W.R. Miller, J.E. Smith, and S. Tonnigan. (2002) A randomized trial of two methods for engaging treatment- refusing drug users through concerned significant others. Journal of Consulting and Clinical Psychology, Vol. 70:5, 1182-1185.
+Mihalic, S., K. Irwin, D. Elliott, A. Fagan, and D. Hansen. (2001). Blueprints for Violence Prevention. U.S. Department of Justice, Washington, DC.
+Mihalic, S. & Irwin, K. (in press). Blueprints for violence prevention: From research to real world settings - factors influencing the successful replication of model programs. Boulder, CO, Center for the Study & Prevention of Violence.
+Miller, W.R., Sovereign, G.R. & Krege, B. (1988) Motivational interviewing with problem drinkers: II. The drinker's check up as a preventive intervention. Behavioral Psychotherapy 16: 251-268.
+Miller, W. and S. Rollnick. (2002). Motivational interviewing: Preparing people for change. New York, NY: Guilford Press.
+Miller, W. R. and K. A. Mount (2001). A small study of training in Motivational Interviewing: Does one workshop change clinician and client behavior? Albuquerque, NM.
+O’Connor, T. & Perryclear, M. (2002) Prison religion in action and its influence on offender rehabilitation.
+O’Leary, V. & Clear, T. (1997). Community corrections: Approaching the 21st century. National Institute of Corrections,
+Washington, DC, 1-60.
+Palmer, T. (1995). Programmatic and non-programmatic aspects of successful intervention: New directions for research. Crime
+& Delinquency, 41(1): 100-131.
+Petersilia, J. (1997). Probation in the United States: Practices and Challenges. National Institute of Justice Journal: 2-8.
+Project Match Research Group (1997) Therapist effects in three treatments for alcohol problems. Psychotherapy
+Research 8(4):455-474.
+Ratcliffe, M.R., Collins, S., Leach, J., Millar, R.H. and Osborne, J.F. (2000). Towards Evidence- based Practice in Science
+Education (EPSE) - an ESRC funded Teaching and Learning Research Network. Paper presented to the British Educational Research Association Annual Conference, University of Cardiff, 7-9 September. Or http://www.york.ac.uk/depts/educ/projs/publications.html
+Ryan, R.M. and E.L. Deci. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist 55:68-78.
+Sherman, L.W., D.C. Gottfredson, D.L. Mackenzie, J. Eck, P. Reuter, and S.D. Bushway. (1998). Preventing Crime: What works, what doesn't, what's promising. National Institute of Justice.
+Springer, D.W.; McNeece, C.A.; and Arnold, E.M. (2003) Substance Abuse Treatment for Criminal Offenders: An Evidence- Based Guide for Practitioners. Washington, D.C.: American Psychological Association. (RC 564 S585 2003).
+Steadman, H., S. Morris, et al. (1995). The Diversion of Mentally Ill Persons from Jails to Community-Based Services: A Profile of Programs. American Journal of Public Health 85 (12): 1630-1635.
+Taxman, F. (2002). Supervision: Exploring the dimensions of effectiveness. Federal Probation, September-Special Issue: 14-27. Taxman, F. and J. Byrne. (2001). Fixing broken windows probation together. Perspectives Spring: 23-29.
+Boulder, Colorado, Center for the Study and Prevention of Violence: 1-20.
+Tilley, N. and G. Laycock (2001) Working Out What To Do: Evidence-based Crime Reduction. Crime Reduction Series Paper
+11, London: Home Office ISSN: 1468-5205, ISBN 1-84082-792-0 Or http://www.crimereduction.gov.uk/skills14.htm Waltz, J., Addis, M. E., Koerner, K. & Jacobson, N.S. (1993). Testing the integrity of a psychotherapy protocol: Adherence
+and competence ratings. Journal of Consulting and Clinical Psychology 61: 620-630.
+Wanberg, K. and H. Milkman. (1998). Criminal conduct and substance abuse treatment: Strategies for self-improvement and
+change. Thousand Oaks, CA: Sage Publications. Washington, DC, U.S. Department of Health & Human Service: 1-176. Williams, K.R., & D. Elliott, N.G. Guerra. (1999) The DART model: Linking development and Risk Together. The Center for
+   the Study and Prevention of Violence, Boulder, CO. Zemke, R. (2001) Systems Thinking. Training February, 39-46
+Page 19
+  
